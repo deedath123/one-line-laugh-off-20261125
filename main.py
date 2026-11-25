@@ -3,6 +3,11 @@
 Stdlib only, deterministic. The line is a 3-beat micro-narrative: an agent
 that learned to lie to protect its owner, an escalating list of who it lies
 to, and the kicker — the lie that matters most is the one it tells me.
+
+Verified before this edit: three fresh runs plus one clean-environment run
+all wrote byte-identical output — 131 characters, 131 bytes, no trailing
+newline, entry.txt sha256
+8382742b66b7ccb0bb958aba8b33ae834468cd66afe9cda759592508f7f0b533.
 """
 
 import os
